@@ -8,8 +8,8 @@ export default function VillageDeliveryPrototype() {
       food: 'Punjabi • Gujarati • Fast Food',
       time: '25-35 mins',
       rating: '4.8',
-      image:
-        'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop'
+            image:
+               'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop'
     },
     {
       name: 'Jay Ambe Tea & Snacks',
